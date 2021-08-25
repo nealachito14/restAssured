@@ -6,9 +6,9 @@ CreateUserRequest.java
  CreateUserRequest
 CreateUserResponse.java
  CreateUserResponse
-BaseTest.java
- BaseTest
 ConfVariables.java
  ConfVariables
+BaseTest.java
+ BaseTest
 ApplicationProperties.java
  ApplicationProperties
